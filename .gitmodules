@@ -1,0 +1,3 @@
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/bzerangue/pcpc-f3-workspace.git
